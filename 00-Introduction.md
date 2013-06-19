@@ -1,4 +1,6 @@
-## 欢迎使用 MarkdownPad 2 ##
+## Chapter 0 Introduction ##
+
+In this repository, I will recomplile some documents on data structure and algorithm which I have been collecting  for several years and then share them with anybody who are also interested on this topic.
 
 **MarkdownPad** 是 Windows 平台上一个功能完善的 Markdown 编辑器。
 
