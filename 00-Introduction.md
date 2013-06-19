@@ -1,7 +1,12 @@
 ## Chapter 0 Introduction ##
 
-**In this repository, I will recomplile some documents on data structure and algorithm which I have been collecting  for several years and then share them with anybody who are also interested in this topic.**
+**In this repository, I will recomplile some documents on data structure and algorithm which I have been collecting  for several years and then share them with people who are also interested in this topic.**
 
+    void main()
+    {
+		return;
+    }
+    
 **MarkdownPad** 是 Windows 平台上一个功能完善的 Markdown 编辑器。
 
 ### 专为 Markdown 打造 ###
